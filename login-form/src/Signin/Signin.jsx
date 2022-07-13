@@ -16,7 +16,6 @@ export default function Signup() {
 
   useEffect(() => {
     setCcode(CountryList);
-    console.log(CountryList[0].flag)
     // console.log(CountryList);
   }, []);
 

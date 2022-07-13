@@ -6,6 +6,10 @@
     color: rgb(117, 117, 117) !important;
 }
 
+.nav-item {
+    background-color: #abaaaa2e!important;
+}
+
 .w-20 {
     width: 20%;
 }
