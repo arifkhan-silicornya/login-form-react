@@ -1,0 +1,86 @@
+.blue_white {
+    background-color: rgb(237, 242, 247);
+}
+
+.signup_page form input::placeholder {
+    color: rgb(117, 117, 117) !important;
+}
+
+.w-20 {
+    width: 20%;
+}
+
+.signup_page a,
+.signup_page a:hover {
+    color: black !important;
+    text-decoration: none;
+}
+
+.signup_page .signup_page input[type="checkbox"],
+.signup_page .input-group-prepend,
+.signup_page .input-group-text {
+    accent-color: #000;
+    font-size: 2rem;
+    height: 20px;
+    width: 20px;
+}
+
+.singup-facebook {
+    background-color: #4267b2 !important;
+}
+
+.singup-facebook:hover {
+    background-color: rgba(66, 103, 178, 0.9) !important;
+}
+
+.singup-twitter {
+    background-color: rgba(0, 172, 238, 1) !important;
+}
+
+.singup-twitter:hover {
+    background-color: rgba(0, 172, 238, 0.9) !important;
+}
+
+.singup-google {
+    background-color: #ea4335 !important;
+}
+
+.singup-google:hover {
+    background-color: rgba(234, 67, 53, 0.9) !important;
+}
+
+.signup_page input {
+    position: relative;
+    z-index: 1;
+}
+
+.signup_page .label {
+    position: relative;
+    left: 15px;
+    top: 20px;
+    padding: 0px 10px;
+    background-color: #fff;
+    color: #000;
+    z-index: 10 !important;
+}
+
+.pay-4 {
+    padding-top: 2.2rem;
+    padding-bottom: 2.2rem;
+}
+
+.signup_page input[type="text"]:focus,
+.signup_page input[type="email"]:focus,
+.signup_page input[type="password"]:focus {
+    border: 1px solid black;
+}
+
+.signup_page p,
+.signup_page label.checkbox,
+.signup_page .text-forgt-pass {
+    color: rgb(117, 117, 117) !important;
+}
+
+.signup_page .Submit .bg-dark:hover {
+    opacity: 0.9;
+}
